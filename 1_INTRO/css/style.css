@@ -1,0 +1,22 @@
+h1 { 
+    color: red;
+}
+
+.container-sm {
+    border: 2px solid blue;
+}.container-md {
+    border: 2px solid rgb(255, 17, 0);
+}.container-lg {
+    border: 2px solid rgb(26, 255, 0);
+}
+
+
+.container {
+    border: 2px solid green;
+}
+.row {
+    border: 2px dotted yellow;
+}
+.col, .col-11, .col-1, .col-10 {
+    border: 2px solid blueviolet;
+}
